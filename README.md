@@ -279,10 +279,8 @@ SatelliteGAN/
 ├── 📄 model_stage2_best.pt                    ConvLSTM trained weights (1.9 MB)
 ├── 📄 README.txt                              Full technical reference
 │
-├── 📁 docs/                                   📚 13 documentation files
+├── 📁 docs/                                   📚 8 documentation files
 │   ├── manuscript-dhanush.md                  📄 IEEE‑style research paper
-│   ├── FINAL_SUBMISSION_REPORT.md             📄 17‑phase project report
-│   ├── BOOK_CHAPTER.md                        📄 Academic book chapter
 │   ├── EXECUTIVE_SUMMARY.md                   📄 One‑page summary
 │   └── ... (MODEL_COMPARISON, QUICK_REFERENCE, etc.)
 │
@@ -375,13 +373,14 @@ Outputs are saved to `outputs/<script_name>/` — including rolling predictions 
 
 | File | Best For |
 |------|----------|
-| 📄 `docs/manuscript-dhanush.md` | Ready‑to‑submit IEEE research paper |
-| 📄 `docs/FINAL_SUBMISSION_REPORT.md` | Full 17‑phase project report (130 KB) |
-| 📄 `docs/BOOK_CHAPTER.md` | Academic book chapter version |
+| 📄 `docs/manuscript-dhanush.md` | IEEE‑style research paper |
 | 📄 `docs/EXECUTIVE_SUMMARY.md` | One‑page high‑level overview |
 | 📄 `docs/FINAL_RESULTS_TABLE.md` | All 25+ runs with verified metrics |
-| 📄 `docs/QUICK_REFERENCE.md` | Key metrics at a glance |
 | 📄 `docs/MODEL_COMPARISON.md` | Detailed model‑by‑model analysis |
+| 📄 `docs/QUICK_REFERENCE.md` | Key metrics at a glance |
+| 📄 `docs/VERIFICATION_PROOFS.md` | How to verify each result |
+| 📄 `docs/SCRIPT_INDEX.md` | All scripts listed |
+| 📄 `docs/KAGGLE_ARGO_SPATIAL_VALIDATION.md` | Argo validation guide |
 | 📄 `README.txt` | Full technical reference with run instructions |
 
 ---

@@ -23,29 +23,8 @@ This folder contains all the formal documentation files for the INCOIS internshi
 | `VERIFICATION_PROOFS.md` | How to verify each result |
 | `SCRIPT_INDEX.md` | All scripts (39-88) listed |
 | `KAGGLE_ARGO_SPATIAL_VALIDATION.md` | Argo validation Kaggle guide |
+| `manuscript-dhanush.md` | IEEE-style research paper |
 | `README.md` | This file |
-
----
-
-## Main Documentation
-
-The complete technical documentation is in the parent folder:
-
-```
-CONVLSTM_PROJECT_DOCUMENTATION.md
-FINAL_SUBMISSION_REPORT.md
-```
-
-These files contain:
-- Full project overview
-- Methodology (17 phases)
-- All findings (ConvLSTM, Chronos, Granite, PostGain, Ensemble)
-- System architecture
-- Model development timeline
-- Results and performance (25+ run leaderboard)
-- Technical specifications
-- Conclusion and recommendations
-- Appendices
 
 ---
 
