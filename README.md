@@ -397,7 +397,7 @@ Outputs are saved to `outputs/<script_name>/` — including rolling predictions 
 ---
 
 <p align="center">
-  <b>Project completed May 2026</b><br/>
+  <b>Project completed June 2026</b><br/>
   🏛️ INCOIS, Hyderabad · 🎓 ICFAI Foundation for Higher Education<br/>
   <img src="https://img.shields.io/badge/Made%20with-Passion-red?style=flat"/>
   <img src="https://img.shields.io/badge/Data-OISST%20%7C%20Argo-blue?style=flat"/>
